@@ -1,5 +1,5 @@
 // save reference to important DOM elements
-
+var tableElement = document.querySelector('.table-responsive')
 
 // handle displaying the time
 
@@ -13,3 +13,4 @@
 // handle project form submission
 
 // 
+var newProject = submitButton
